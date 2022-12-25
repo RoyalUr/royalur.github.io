@@ -45,3 +45,7 @@ article {
     margin-right: auto;
     font-family: sans-serif;
 }
+
+article h1 {
+    font-size: 2rem;
+}
