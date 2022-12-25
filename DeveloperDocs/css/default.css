@@ -1,15 +1,15 @@
 @font-face {
-    font-family: 'Storystone';
-    src: url('/assets/Storystone-Regular.woff2') format('woff2'),
-        url('/assets/Storystone-Regular.woff') format('woff');
+    font-family: 'Playfair';
+    src: url(/assets/PlayfairDisplayMedium-subset.woff2) format("woff2");
+    unicode-range: U+22,U+25-3F,U+41-5F,U+61-7D;
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
-
+  }
 
 body {
     width: 100%;
+    margin: 0;
 }
 
 header {
@@ -18,11 +18,13 @@ header {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 0.6em;
     padding-bottom: 0.4em;
     padding-left: 0.8em;
     text-decoration: none;
-    border-bottom: 1px solid black;
     vertical-align: middle;
+    white-space: nowrap;
+    overflow: hidden
 }
 
 header a {
@@ -33,12 +35,17 @@ header a {
 }
 
 header .header-title {
-    font-family: 'Storystone', serif;
-    font-weight: bold;
+    font-family: 'Playfair', serif;
+    font-weight: normal;
     font-style: normal;
-    font-size: 1.8rem;
+    font-size: 2rem;
+    letter-spacing: 0.05rem;
     display: inline-block;
     vertical-align: middle;
+    padding: 0.3rem;
+    padding-top: 0;
+    border-bottom: 1px solid black;
+    white-space: normal;
 }
 
 #logo {
@@ -51,7 +58,9 @@ header .header-title {
 }
 
 article {
+    box-sizing: border-box;
     width: 100%;
+    padding: 0 0.8rem;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;

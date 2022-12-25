@@ -1,3 +1,10 @@
 markdown: kramdown
+
 title: RoyalUr.net Developer Documentation
 description: Developer documentation for RoyalUr.net projects.
+domain: royalur.github.io
+url: "https://royalur.github.io"
+
+email: padraiglamont@gmail.com
+twitter_username: paddy_lamont
+github_username:  Sothatsit
