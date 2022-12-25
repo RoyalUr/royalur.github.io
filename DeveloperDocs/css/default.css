@@ -8,25 +8,30 @@ header {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 0.4em;
     text-decoration: none;
+    border-bottom: 1px solid black;
     vertical-align: middle;
 }
 
 header a {
     text-decoration: none;
     display: inline-block;
+    vertical-align: middle;
+    margin-right: 1em;
 }
 
-header h3 {
+header h1 {
     font-family: serif;
     display: inline-block;
+    vertical-align: middle;
 }
 
 #logo {
     width: auto;
     height: auto;
-    max-width: 80px;
-    max-height: 80px;
+    max-width: 60px;
+    max-height: 60px;
     border-radius: 20%;
     box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.5);
 }
