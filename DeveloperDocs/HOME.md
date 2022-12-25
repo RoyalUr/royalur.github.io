@@ -1,8 +1,8 @@
 ---
 permalink: /
 ---
-# RoyalUr.net Developer Documentation
+# Welcome!
 
-Welcome to the website that will contain all the developer documentation for the RoyalUr.net projects. This site is currently a work-in-progress.
+This website will contain the developer documentation for all RoyalUr.net projects. This site is currently a work-in-progress.
 
 * [RoyalUr-Java](/RoyalUrJava)
