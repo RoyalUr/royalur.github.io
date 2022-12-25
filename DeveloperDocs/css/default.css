@@ -30,8 +30,8 @@ header .header-title {
 }
 
 #logo {
-    width: auto;
-    height: auto;
+    width: 80px;
+    height: 80px;
     max-width: 80px;
     max-height: 80px;
     border-radius: 20%;
