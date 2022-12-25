@@ -1,0 +1,5 @@
+markdown: kramdown
+theme: jekyll-theme-minimal
+title: RoyalUr.net Developer Documentation
+description: Developer documentation for RoyalUr.net projects.
+layouts_dir: DeveloperDocs/_layouts/
