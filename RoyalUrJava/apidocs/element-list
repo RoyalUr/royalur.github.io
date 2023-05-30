@@ -4,8 +4,9 @@ net.royalur.builder
 net.royalur.model
 net.royalur.model.path
 net.royalur.model.shape
-net.royalur.model.state
+net.royalur.name
 net.royalur.notation
 net.royalur.rules
 net.royalur.rules.standard
+net.royalur.rules.state
 net.royalur.stats
