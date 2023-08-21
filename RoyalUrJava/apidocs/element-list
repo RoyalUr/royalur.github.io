@@ -9,6 +9,7 @@ net.royalur.name
 net.royalur.notation
 net.royalur.rules
 net.royalur.rules.standard
+net.royalur.rules.standard.fast
 net.royalur.rules.state
 net.royalur.stats
 net.royalur.util
