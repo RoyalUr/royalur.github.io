@@ -8,8 +8,8 @@ net.royalur.model.shape
 net.royalur.name
 net.royalur.notation
 net.royalur.rules
-net.royalur.rules.standard
-net.royalur.rules.standard.fast
+net.royalur.rules.simple
+net.royalur.rules.simple.fast
 net.royalur.rules.state
 net.royalur.stats
 net.royalur.util
