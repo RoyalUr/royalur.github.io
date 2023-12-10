@@ -2,6 +2,7 @@ net.royalur
 net.royalur.agent
 net.royalur.agent.utility
 net.royalur.lut
+net.royalur.lut.buffer
 net.royalur.model
 net.royalur.model.dice
 net.royalur.model.path
