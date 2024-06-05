@@ -8,7 +8,6 @@ net.royalur.model
 net.royalur.model.dice
 net.royalur.model.path
 net.royalur.model.shape
-net.royalur.name
 net.royalur.notation
 net.royalur.rules
 net.royalur.rules.simple
