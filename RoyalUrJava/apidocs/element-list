@@ -4,6 +4,7 @@ net.royalur.agent.utility
 net.royalur.cli
 net.royalur.lut
 net.royalur.lut.buffer
+net.royalur.lut.cli
 net.royalur.lut.store
 net.royalur.model
 net.royalur.model.dice
@@ -15,4 +16,5 @@ net.royalur.rules.simple
 net.royalur.rules.simple.fast
 net.royalur.rules.state
 net.royalur.stats
+net.royalur.stats.cli
 net.royalur.util
